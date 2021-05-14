@@ -5,6 +5,8 @@ This repository contains Python language practices regarding Election Analysis u
 
 ### The number of votes nd its percentage for each candidate:
 
+ The Total number of votes is: 369711.
+
   * Charles Casper Stockham: 23.0% (85,213)
   * Diana DeGette: 73.8% (272,892)
   * Raymon Anthony Doane: 3.1% (11,606)
