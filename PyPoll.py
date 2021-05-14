@@ -499,7 +499,7 @@ total_votes = 0
 
 # Candidate options and candidate votes
 candidate_options = []
-# 1. Declare the empty dictionary.
+# Declare the empty dictionary.
 candidate_votes = {}
 
 # Winning Candidate and Winning Count Tracker
@@ -519,6 +519,8 @@ with open(file_to_load) as election_data:
         # Add to the total vote count.
         total_votes += 1
 
+ 
+
         # Print the candidate name from each row.
         candidate_name = row[2]
 
@@ -534,6 +536,8 @@ with open(file_to_load) as election_data:
         
  #Print the candidate vote dictionary. 
  #print(candidate_votes)
+# 3. Print the total votes.
+print(f'The Total number of votes is: {total_votes}.')
 
  # Determine the percentage of votes for each candidate by looping through the counts.
  # Iterate through the candidate list.
@@ -546,6 +550,7 @@ for candidate_name in candidate_votes:
     #  To do: print out each candidate's name, vote count, and percentage of votes to the terminal.
     print(f"{candidate_name}: {vote_percentage:.1f}% ({votes:,})\n")
 
+ 
     # Determine winning vote count and candidate
     # Determine if the votes is greater than the winning count.
     if (votes > winning_count) and (vote_percentage > winning_percentage):
