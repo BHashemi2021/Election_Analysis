@@ -1,2 +1,2 @@
 # Election_Analysis
-This repository is for Python language practices and perhaps challenges.
+This repository contains Python language practices regarding Election Analysis using election_results.csv file.
