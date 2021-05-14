@@ -10,7 +10,7 @@ This repository contains Python language practices regarding Election Analysis u
   * Raymon Anthony Doane: 3.1% (11,606)
 
 --------------------------
-### The winner's vote, its percentage and the winning percentage fro the totlof votes are:
+### The winner's vote count, its percentage, and the winning percentage of votes:
 
   * Winner: Diana DeGette
   * Winning Vote Count: 272,892
