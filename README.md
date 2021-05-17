@@ -9,11 +9,11 @@
   
 ## 2.	Election-Audit Results:
 
-o	All in all, 369,711 of votes were cast by registered voters across the three states in this congressional election (Figure 1).
-o	From the total number of votes (369,711) cast, Denver received 306,055 (82.8%) votes, while Jefferson and Arapahoe received 38,855 (10.5%) and 24,801 (6.7%) of the votes, respectively.
-o	The voting turnout was the highest in Denver with 306,055 (82.8%) votes cast.
-o	Among the three congressional candidates, Diana DeGette won 272,892 (73.8%) votes, while Charles Casper Stockham received 85,213 (23.0%) and Raymon Anthony 11,606 (3.1%) votes.
-o	With the largest number of votes, Diana DeGette won 272,892 (73.8%) votes to win the congressional election.
+*	All in all, 369,711 of votes were cast by registered voters across the three states in this congressional election (Figure 1).
+*	From the total number of votes (369,711) cast, Denver received 306,055 (82.8%) votes, while Jefferson and Arapahoe received 38,855 (10.5%) and 24,801 (6.7%) of the votes, respectively.
+*	The voting turnout was the highest in Denver with 306,055 (82.8%) votes cast.
+*	Among the three congressional candidates, Diana DeGette won 272,892 (73.8%) votes, while Charles Casper Stockham received 85,213 (23.0%) and Raymon Anthony 11,606 (3.1%) votes.
+*	With the largest number of votes, Diana DeGette won 272,892 (73.8%) votes to win the congressional election.
 
 **Figure 1: The election results across three counties**
 
