@@ -15,8 +15,10 @@ o	The voting turnout was the highest in Denver with 306,055 (82.8%) votes cast.
 o	Among the three congressional candidates, Diana DeGette won 272,892 (73.8%) votes, while Charles Casper Stockham received 85,213 (23.0%) and Raymon Anthony 11,606 (3.1%) votes.
 o	With the largest number of votes, Diana DeGette won 272,892 (73.8%) votes to win the congressional election.
 
-*Figure 1*
-
+**Figure 1: The election results across three counties**
+------------------------------------------------------
+![Fig-1-Deliverable-1.png](https://github.com/BHashemi2021/Election_Analysis/blob/main/Resources/Fig-1-Deliverable-1.png)
+------------------------------------------------------
 
 ## 3. Election-Audit Summary
  The script used in this audit can be modified to be used in similar elections with any number of voters, candidates or counties, or with any other variables to measure.
