@@ -35,7 +35,7 @@ o	With the largest number of votes, Diana DeGette won 272,892 (73.8%) votes to w
 
 -------------------------------------------------------
 
- 2. As the script benefits from easy to create variables, it can be refactored to include other data points of interest, such as age of the participants, their education attainments, their political affiliation and so on to better strategize for future elections by respective candidates or political parties (Figure 3).
+ 2. As the script benefits from easy to create variables, it can be refactored to include other data points of interest, such as age of the participants, their educational attainments, their political affiliation and so on to better strategize for future elections by respective candidates or political parties (Figure 3).
 
   **Figure 3: Variable modification**
 
