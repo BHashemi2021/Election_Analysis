@@ -4,8 +4,6 @@
 
  In this audit, we analyzed the results of congressional election provided by Colorado Board of Elections. Doing so, we were able to determine the results of the election across three counties, Arapahoe, Denver and Jefferson, and those of the three candidates, Charles Casper Stockham, Diana DeGette and Raymon Anthony Doane. The number of registered voters who voted for their favorite candidate was *369711*. In this analysis, we calculated the total number of votes and its percentages cast for each candidate and county, aside from determining the winning candidate, and the county with the largest turn out. 
  
-* For this analysis we used a Microsoft Excel file (csv) that contained the election data. We also used VSCode to write and edit the script and Python 3.8.5 (64-bit) software (part of Anaconda 3 software by May 1, 2021) for the descriptive analysis of the election data.
-
   
 ## 2.	Election-Audit Results:
 
@@ -45,6 +43,7 @@
 -------------------------------------------------------
 
 
+ For this analysis we used a Microsoft Excel file (csv) that contained the election data. We also used VSCode to write and edit the script and Python 3.8.5 (64-bit) software (part of Anaconda 3 software by May 1, 2021) for the descriptive analysis of the election data.
 
 
 
