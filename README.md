@@ -16,8 +16,10 @@ o	Among the three congressional candidates, Diana DeGette won 272,892 (73.8%) vo
 o	With the largest number of votes, Diana DeGette won 272,892 (73.8%) votes to win the congressional election.
 
 **Figure 1: The election results across three counties**
+
 ------------------------------------------------------
 ![Fig-1-Deliverable-1.png](https://github.com/BHashemi2021/Election_Analysis/blob/main/Resources/Fig-1-Deliverable-1.png)
+
 ------------------------------------------------------
 
 ## 3. Election-Audit Summary
@@ -26,12 +28,21 @@ o	With the largest number of votes, Diana DeGette won 272,892 (73.8%) votes to w
  ### Examples:
  1. As the script contains "for loops" created to scan through the Excel (csv) data file, it is able to retrieve any number of votes that such files could hold to determine the total number of votes cast, the votes for any number of candidates, the candidate and county with the largest number of votes (Figure 2). 
 
-*Figure 2*
+  **Figure 2: For loops**
+
+-------------------------------------------------------
+![Fig-2-For-loop.png](https://github.com/BHashemi2021/Election_Analysis/blob/main/Resources/Fig-2-For-loop.png)
+
+-------------------------------------------------------
 
  2. As the script benefits from easy to create variables, it can be refactored to include other data points of interest, such as age of the participants, their education attainments, their political affiliation and so on to better strategize for future elections by respective candidates or political parties (Figure 3).
 
-*Figure 3*
+  **Figure 3: Variable modification**
 
+-------------------------------------------------------
+![Fig-3-variables.png](https://github.com/BHashemi2021/Election_Analysis/blob/main/Resources/Fig-3-variables.png)
+
+-------------------------------------------------------
 
 
 
